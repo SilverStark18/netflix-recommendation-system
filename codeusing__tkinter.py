@@ -4,18 +4,22 @@ from sklearn.feature_extraction import text
 from sklearn.metrics.pairwise import cosine_similarity
 import tkinter as tk
 from tkinter import font
+import nltk
+import re
+from nltk.corpus import stopwords
+import string
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 
 data = pd.read_csv("netflixData.csv")
 print(data.head())
 data = data[["Title", "Description", "Content Type", "Genres"]]
 print(data.head())
 data= data.dropna()
-import nltk
-import re
+
 nltk.download('stopwords')
 stemmer = nltk.SnowballStemmer("english")
-from nltk.corpus import stopwords
-import string
+
 stopword=set(stopwords.words('english'))
 
 def clean(text):
@@ -32,8 +36,7 @@ def clean(text):
     text=" ".join(text)
     return text
 data["Title"] = data["Title"].apply(clean)
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
+
 
 # Assuming 'data' is a pandas DataFrame and 'Genres' is a column in that DataFrame
 feature = data["Genres"].tolist()
