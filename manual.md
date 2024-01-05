@@ -4,9 +4,9 @@ you can download the dataset required to this from this link
 
 https://www.kaggle.com/datasets/satpreetmakhija/netflix-movies-and-tv-shows-2021/
   
-  it is kaggle datset I have used for this project..
+  it is kaggle dataset I have used for this project..
 
-<font color = Blue>You can follow my medium post for clear instructions on how to do this project on your own and also detailed information about the modules and it s uasge </font>
+<font color = Blue> You can follow my medium post for clear instructions on how to do this project on your own and also detailed information about the modules and it s uasge </font>
 
 follow this medium link
 
