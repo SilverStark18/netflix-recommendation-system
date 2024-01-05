@@ -1,0 +1,3 @@
+Hey all this is my datascience project on  NETflix movie recommendation system using python ...
+
+do read manual and remaining files for deeper understanding
