@@ -12,4 +12,4 @@
 > Check my [MEDIUM POST](https://medium.com/@amartalks25603/python-based-netflix-recommendation-system-577716945791 " NETFLIX RECOMMENDATION PROJECT")
 ---
 ***
-###### ` </font color = orange> REFER MANUAL TO GET STARTED </font> `
+###### `!REFER MANUAL TO GET STARTED  `
