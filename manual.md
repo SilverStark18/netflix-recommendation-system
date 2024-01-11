@@ -4,7 +4,7 @@
 ---
 >  it is kaggle dataset I have used for this project..
 ***
-### [follow this medium link](https://medium.com/@amartalks25603/python-based-netflix-recommendation-system-577716945791"MEDIUM POST FOR DETAILED EXPLANATION")
+[follow this medium link](https://medium.com/@amartalks25603/python-based-netflix-recommendation-system-577716945791"MEDIUM POST FOR DETAILED EXPLANATION")
 ***
 |Author|Amarnath Siliveri|
 ###### on medium  or you can search as amartalks for datascience related stuff and much more intresting tech blogs on datascience..
