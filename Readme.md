@@ -13,4 +13,4 @@
 ---
 ***
 ###### ! REFER MANUAL TO GET STARTED  
-- ![#REFER MANUAL TO GET STARTED](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+![#REFER MANUAL TO GET STARTED](https://placehold.co/15x15/f03c15/f03c15.png) `#REFER MANUAL TO GET STARTED`
