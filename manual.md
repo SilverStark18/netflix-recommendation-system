@@ -4,14 +4,10 @@
 ---
 >  it is kaggle dataset I have used for this project..
 ***
-```html
-<font color = Blue> You can follow my medium post for clear instructions on how to do this project on your own and also detailed information about the modules and it s uasge </font>
-```
-***
 ### [follow this medium link](https://medium.com/@amartalks25603/python-based-netflix-recommendation-system-577716945791"MEDIUM POST FOR DETAILED EXPLANATION")
 ***
-| Author | Amarnath siliveri |
- > ###### on medium  or you can search as amartalks for datascience related stuff and much more intresting tech blogs on datascience..
+|Author|Amarnath Siliveri|
+###### on medium  or you can search as amartalks for datascience related stuff and much more intresting tech blogs on datascience..
 ```diff  
 + ---->code.py contains all the needed basic code on how I have made the project
 
