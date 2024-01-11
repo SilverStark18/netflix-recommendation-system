@@ -7,10 +7,13 @@
 ---
 
 ***
+``` html
 <font color = orange> _For more Information Related to the Project and The Explanation_</font>
+```
 ---
 > Check my [MEDIUM POST](https://medium.com/@amartalks25603/python-based-netflix-recommendation-system-577716945791 " NETFLIX RECOMMENDATION PROJECT")
 ---
 ***
-###### ! REFER MANUAL TO GET STARTED  
-![#REFER MANUAL TO GET STARTED](https://placehold.co/15x15/f03c15/f03c15.png) `#REFER MANUAL TO GET STARTED`
+``` html
+<font color = orange> _REFER MANUAL TO GET STARTED_</font>
+```
