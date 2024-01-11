@@ -7,13 +7,13 @@
 ---
 
 ***
-``` html
-<font color = orange> _For more Information Related to the Project and The Explanation_</font>
+``` diff
+! _For more Information Related to the Project and The Explanation_
 ```
 ---
 > Check my [MEDIUM POST](https://medium.com/@amartalks25603/python-based-netflix-recommendation-system-577716945791 " NETFLIX RECOMMENDATION PROJECT")
 ---
 ***
-``` html
-<font color = orange> _REFER MANUAL TO GET STARTED_</font>
+``` diff
+ + _REFER MANUAL TO GET STARTED_
 ```
